@@ -25,7 +25,7 @@
 - A designer discord bot
 
 
-# Le README a été repris de GalackQSM mais je l'ai modifier.
+# The README was taken from GalackQSM but I modified it.
 
 <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=lyloff&show_icons=true&hide_border=true&theme=tokyonight" />
 
