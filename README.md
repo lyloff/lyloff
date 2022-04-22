@@ -13,4 +13,4 @@
 - Un bot discord designer
 
 
-# Le README a été repris de Galack
+# Le README a été repris de GalackQSM mais je l'ai modifier.
