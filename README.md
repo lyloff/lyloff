@@ -14,3 +14,5 @@
 
 
 # Le README a été repris de GalackQSM mais je l'ai modifier.
+
+https://camo.githubusercontent.com/
