@@ -34,3 +34,5 @@
 <p align="center">
 <img src="https://media.discordapp.net/attachments/967058494199046248/967102566217424906/1027f80aeabcbb74a2e698be71829e9e.gif">
 </p>
+
+<iframe src="https://discord.com/widget?id=941360073471590400&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
