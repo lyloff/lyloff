@@ -29,7 +29,7 @@
 
 <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=lyloff&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<img alt="Languages ​​used" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyloff&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyloff&show_icons=true&theme=tokyonight&layout=compact" />
 
 <p align="center">
 <img src="https://media.discordapp.net/attachments/967058494199046248/967102566217424906/1027f80aeabcbb74a2e698be71829e9e.gif">
