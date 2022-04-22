@@ -8,7 +8,7 @@
 ### Mes anciens projets
 - J'ai plus le nom en tête
 - Sufo
-- BlackGen
+- BlackGen (open source de GalackQSM)
 - Soon
 - Un bot discord designer
 
