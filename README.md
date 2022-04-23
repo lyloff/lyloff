@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=github&color=grey">
 </p>
 
-### Mes anciens projets
+### My old projects
 - I no longer have the name in mind
 - Sufo
 - BlackGen (open source from GalackQSM)
