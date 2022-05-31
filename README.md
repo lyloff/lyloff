@@ -1,51 +1,19 @@
-<p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
-</p>
 
-[![Discord](https://discord.com/api/guilds/941360073471590400/embed.png)](httpttps://discord.gg/nkjs48Dq92)
-[![Twitter Follow](https://img.shields.io/twitter/follow/offlyl.svg?style=social)](https://twitter.com/OffLyl)
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/x86kFRB3qW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Legars2lastreet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LylLeVrai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ucimzvd2bknrv4jrbc) 
 
+# 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Lyloff&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lyloff&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyloff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🔭 How to contact me: [Discord](https://discord.gg/nkjs48Dq92) | [Twitter](https://twitter.com/OffLyl)
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lyloff&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/577849509657444353.png"/>
-</p>
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-## 🌱 I develop in Python, JavaScript, PHP et Java
-
-### My current projects
-- AntiNuke
-
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=github&color=grey">
-</p>
-
-### My old projects
-- I no longer have the name in mind
-- Sufo
-- BlackGen (open source from GalackQSM)
-- Soon
-- A designer discord bot
-
-
-# The README was taken from GalackQSM but I modified it.
-
-<img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=lyloff&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<img alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyloff&show_icons=true&theme=tokyonight&layout=compact" />
-
-<a href="https://discord.gg/nkjs48Dq92">
-   
-  
-
-  <img src="https://discord.com/api/guilds/941360073471590400/embed.png?style=banner2" title="Discord Server"/>
-
-</a>
-
-<p align="center">
-<img src="https://media.discordapp.net/attachments/967058494199046248/967102566217424906/1027f80aeabcbb74a2e698be71829e9e.gif">
-</p>
-
-
-<iframe src="https://discord.com/widget?id=968216885067919490&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+---
+[![](https://visitcount.itsvg.in/api?id=Lyloff&icon=2&color=12)](https://visitcount.itsvg.in)
